@@ -54,6 +54,7 @@ footer p {
   .showCardSection{
     padding: 2% 10%;
     background-color: #bcddec; 
+    position: relative;
   }
 
   .cardPadding{
