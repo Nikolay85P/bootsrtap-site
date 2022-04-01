@@ -1,0 +1,102 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-Bold";
+  }
+footer {
+  background-color: #6FB2D2;
+  padding: 3% 0;
+}
+footer p {
+  margin-bottom: 0;
+}
+
+#title {
+    background-color: #6FB2D2;
+    color: #fff;
+    text-align: left;
+}
+  
+#title .container-fluid {
+    padding: 3% 15% 3%;
+}
+
+#features {
+    position: relative;
+    background-color: #cfebf8;
+    height: 60px;;
+  }
+
+.phoneImage {
+    width: 25%;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 22%;
+}
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.1;
+  }
+
+  .container-fluid{
+    padding: 1% 15%;
+    
+  }
+
+  .download-button {
+    margin: 5% 3% 5% 0;
+  }
+  
+  .showCardSection{
+    padding: 2% 10%;   
+  }
+
+  .cardPadding{
+    margin: 0.5%;
+  }
+  
+  .card-text {
+      text-align: left;
+      font-size: 0.8em;
+      line-height: 90%;
+      vertical-align: middle;
+      
+  }
+
+  .cardButtonShop {
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+  }
+
+  .imageContent {
+    max-width: 160px;
+    max-height: 160px;
+    object-fit: cover;
+  }
+
+
+  @media (max-width: 1028px) {
+
+    #title {
+      text-align: center;
+    }
+  
+    .phoneImage {
+      position: static;
+      transform: rotate(0);
+      width: 80%;
+    }
+    .imageContent {
+      max-width: 140px;
+      max-height: 140px;
+      object-fit: cover;
+    }
+    
+
+  }
