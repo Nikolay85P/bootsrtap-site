@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bootsrtap-site/static/css/main.f09093de.css",
-    "main.js": "/bootsrtap-site/static/js/main.757f7f2b.js",
+    "main.js": "/bootsrtap-site/static/js/main.ad8ad075.js",
     "static/media/bootstrap-icons.woff?": "/bootsrtap-site/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/bootsrtap-site/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/bootsrtap-site/index.html",
     "main.f09093de.css.map": "/bootsrtap-site/static/css/main.f09093de.css.map",
-    "main.757f7f2b.js.map": "/bootsrtap-site/static/js/main.757f7f2b.js.map"
+    "main.ad8ad075.js.map": "/bootsrtap-site/static/js/main.ad8ad075.js.map"
   },
   "entrypoints": [
     "static/css/main.f09093de.css",
-    "static/js/main.757f7f2b.js"
+    "static/js/main.ad8ad075.js"
   ]
 }
